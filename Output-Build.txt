@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: FIT5032MA, Configuration: Debug Any CPU ------
+1>C:\Users\Administrator\source\repos\FIT5032MA\FIT5032MA\Controllers\EventController.cs(23,105,23,105): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
